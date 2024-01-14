@@ -1,0 +1,23 @@
+{
+  "name": "test_onseo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "^7.23.7",
+    "@babel/preset-env": "^7.23.8",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.8"
+  },
+  "dependencies": {
+    "@tweenjs/tween.js": "^21.0.0",
+    "pixi": "^0.3.1",
+    "pixi.js": "^7.3.3"
+  }
+}
